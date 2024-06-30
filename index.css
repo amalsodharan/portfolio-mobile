@@ -546,13 +546,13 @@ section:nth-child(odd) {
         flex-basis: 0%;
     }
     .card{
-        max-width: 170px;
+        max-width: 150px;
     }
     .card-body h5{
         font-size: 12px;
     }
     .card-img-top{
-        max-width: 170px;
+        max-width: 150px;
     }
     .card:hover {
         transform: none;
