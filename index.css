@@ -537,6 +537,9 @@ section:nth-child(odd) {
     .container-fluid{
         margin: 20px;
     }
+    .row{
+        display:flex;
+    }
     .card{
         max-width: 170px;
     }
